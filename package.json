@@ -1,0 +1,19 @@
+{
+  "name": "phaser3-typescript",
+  "version": "1.0.0",
+  "description": "开发游戏基础版本",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liurongqing/phaser3-typescript.git"
+  },
+  "author": "liurongqing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liurongqing/phaser3-typescript/issues"
+  },
+  "homepage": "https://github.com/liurongqing/phaser3-typescript#readme"
+}
